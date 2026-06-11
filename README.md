@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hans Neville 👋
 
-<!--
-**swainle/swainle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder @ Swainle Studio
 
-Here are some ideas to get you started:
+Building reliable infrastructure, embedded systems, and developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+* DevOps & Platform Engineering
+* Linux & Open Source
+* Embedded Systems
+* Hardware Design
+* Infrastructure Automation
+* Cloud Native Technologies
+
+### Contact
+
+📍 Guangzhou, China
+
+🌐 swainle.com
+
+📧 [hans@swainle.com](mailto:hans@swainle.com)
